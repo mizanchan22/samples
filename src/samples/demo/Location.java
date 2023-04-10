@@ -1,7 +1,7 @@
 package samples.demo;
 
 public abstract class Location {
-	private String fname = "John";
+	private String fname = "Johny";
 
 	public String getFname() {
 		return fname;
